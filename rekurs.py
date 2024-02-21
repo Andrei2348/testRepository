@@ -1,7 +1,7 @@
 import re
 
 def summa(a, b):
-   return a + b - 0
+   return a + b
 
 def minus(a, b):
    return a - b
