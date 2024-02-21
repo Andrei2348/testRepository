@@ -23,7 +23,7 @@
 import re
 
 def summa(a, b):
-   return a - c + d
+   return a - b
 
 def minus(a, b):
    return a - b
