@@ -4,7 +4,7 @@ def summa(a, b):
    return a + b
 
 def minus(a, b):
-   return a - b
+   return a - b - c * 2
 
 def multiply(a, b):
    return a * b
