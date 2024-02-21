@@ -100,7 +100,7 @@ for index in range(0, len(actions)):
          low_priority_elem.append(elems[index])
          low_priority_action.append(actions[index])
       else:
-         flag = True
+         flag = False
          low_priority_action.append(actions[index])
          
    if actions[index] == '' and flag == False:
